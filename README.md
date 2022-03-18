@@ -9,17 +9,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-![Version][Version-shield]  [![MIT License][license-shield]][license-url] ![update][update-shield] 
+![Version][Version-shield]  [![MIT License][license-shield]][license-url] ![update][update-shield]
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
- 
-![Windows][windows-shield]
-![Mac][Mac-shield]
-![Download][download-shield]
- 
+
+![Windows][windows-shield] ![Mac][Mac-shield]
+
 
 <h3 align="center">project_title</h3>
 
@@ -29,8 +24,6 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
@@ -70,8 +63,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -201,27 +192,20 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[product-screenshot]: images/screenshot.png
+
 [contributors-shield]: https://img.shields.io/github/contributors/christopher-chandler/repo_name?color=green&logoColor=%20
 [contributors-url]: https://github.com/christopher-chandler/repo_name/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/christopher-chandler/repo_name?color=green&logoColor=blue&style=social
-[forks-url]: https://github.com/github_username/repo_name/network/members
-
-[stars-shield]: https://img.shields.io/github/stars/christopher-chandler/repo_name?style=social
+[stars-shield]: https://img.shields.io/github/stars/christopher.chandler/i2pdf?color=yellow%20&logoColor=yellow&style=social
 [stars-url]: https://github.com/github_username/repo_name/stargazers
-
-[issues-shield]: https://img.shields.io/github/issues/christopher-chandler/i2pdf
-[issues-url]: https://github.com/github_username/repo_name/issues
 
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/repo_name?color=yellow
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 
- 
 [download-shield]: https://img.shields.io/github/downloads/christopher-chandler/repo_name/total
-[product-screenshot]: images/screenshot.png
-[windows-shield]:  https://img.shields.io/badge/Windows-Tested-yellow 
+[windows-shield]:  https://img.shields.io/badge/Windows-Tested-purple 
 [mac-shield]: https://img.shields.io/badge/Mac-Tested-purple
 [version-shield]: https://img.shields.io/badge/Version-0.0.0-brightgreen
 [update-shield]: https://img.shields.io/badge/Last_Updated-March_2022-blue
-
- 
