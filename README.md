@@ -208,4 +208,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [windows-shield]:  https://img.shields.io/badge/Windows-Tested-purple 
 [mac-shield]: https://img.shields.io/badge/Mac-Tested-purple
 [version-shield]: https://img.shields.io/badge/Version-0.0.0-brightgreen
-[update-shield]: https://img.shields.io/badge/Last_Updated-March_2022-blue
+[update-shield]: https://img.shields.io/badge/Last_Updated-MONTH_YEAR-blue
