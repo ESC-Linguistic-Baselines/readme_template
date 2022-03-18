@@ -2,23 +2,24 @@
 
 <!-- PROJECT SHIELDS -->
 
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-![Windows][windows-shield] 
-![Mac][Mac-shield]
-![Version][Version-shield]
-![update][update-shield]
- 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+
+![Version][Version-shield]  [![MIT License][license-shield]][license-url] ![update][update-shield] 
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+ 
+![Windows][windows-shield]
+![Mac][Mac-shield]
+![Download][download-shield]
+ 
 
 <h3 align="center">project_title</h3>
 
@@ -215,6 +216,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/repo_name?color=yellow
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 
+ 
+[download-shield]: https://img.shields.io/github/downloads/christopher-chandler/repo_name/total
 [product-screenshot]: images/screenshot.png
 [windows-shield]:  https://img.shields.io/badge/Windows-Tested-yellow 
 [mac-shield]: https://img.shields.io/badge/Mac-Tested-purple
