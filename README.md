@@ -21,8 +21,6 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
@@ -57,19 +55,21 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+</div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
 
+A list of frameworks that were used in developing the program. 
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 * [Vue.js](https://vuejs.org/)
@@ -193,18 +193,17 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: images/screenshot.png
-
 [contributors-shield]: https://img.shields.io/github/contributors/christopher-chandler/repo_name?color=green&logoColor=%20
 [contributors-url]: https://github.com/christopher-chandler/repo_name/graphs/contributors
 
-[stars-shield]: https://img.shields.io/github/stars/christopher.chandler/i2pdf?color=yellow%20&logoColor=yellow&style=social
+[stars-shield]: https://img.shields.io/github/stars/christopher-chandler/repo_name?logoColor=yellow&style=social
 [stars-url]: https://github.com/github_username/repo_name/stargazers
 
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/repo_name?color=yellow
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 
 [download-shield]: https://img.shields.io/github/downloads/christopher-chandler/repo_name/total
+
 [windows-shield]:  https://img.shields.io/badge/Windows-Tested-purple 
 [mac-shield]: https://img.shields.io/badge/Mac-Tested-purple
 [version-shield]: https://img.shields.io/badge/Version-0.0.0-brightgreen
