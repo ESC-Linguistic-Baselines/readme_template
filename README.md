@@ -200,7 +200,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [stars-url]: https://github.com/github_username/repo_name/stargazers
 
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/repo_name?color=yellow
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/christopher-chandler/repo_name/blob/master/LICENSE.txt
 
 [download-shield]: https://img.shields.io/github/downloads/christopher-chandler/repo_name/total
 
