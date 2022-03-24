@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/christopher-chandler/repo_name">
+    <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 ![Version][Version-shield]  [![MIT License][license-shield]][license-url] ![update][update-shield]
@@ -22,9 +22,9 @@
     project_description
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/christopher-chandler/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/christopher-chandler/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
@@ -59,8 +59,8 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/christopher-chandler/repo_name">
+    <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -102,7 +102,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/christopher-chandler/repo_name.git
    ```
 3. Install NPM packages
    ```sh
@@ -136,7 +136,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/christopher-chandler/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -174,7 +174,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Christopher Chandler - christopher.chandler@outlook.de
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/christopher-chandler/repo_name](https://github.com/christopher-chandler/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,7 +197,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [contributors-url]: https://github.com/christopher-chandler/repo_name/graphs/contributors
 
 [stars-shield]: https://img.shields.io/github/stars/christopher-chandler/repo_name?logoColor=yellow&style=social
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/christopher-chandler/repo_name/stargazers
 
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/repo_name?color=yellow
 [license-url]: https://github.com/christopher-chandler/repo_name/blob/master/LICENSE.txt
